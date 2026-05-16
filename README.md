@@ -1,7 +1,8 @@
 # Hi, I'm Choi Junseo! 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitcount+Prop+Double+Ink&weight=300&size=46&duration=3000&pause=800&vCenter=true&width=650&lines=I+always+study+something.)](https://git.io/typing-svg)
-![SecAiM's Stats](https://github-readme-stats.vercel.app/api?username=YOUR_NEW_GITHUB_ID&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&v=1)
+
+![SecAiM's Stats](https://github-readme-stats.vercel.app/api?username=SecAiM&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&v=1)
 
 ## 🚀 About Me
 
