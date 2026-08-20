@@ -1,18 +1,15 @@
-# Hi, I'm Choi Junseo! 👋
+# Hi, I'm Choi Junseo! 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitcount+Prop+Double+Ink&weight=300&size=46&duration=3000&pause=800&vCenter=true&width=650&lines=I+always+study+something.)](https://git.io/typing-svg)
 
-## 🚀 About Me
+## About Me
 
-- 🔭 I'm a student at Yeungnam University.
-- 🙌 Things I want to do: reverse engineering, data analysis.
+-  I'm a student at Yeungnam University.
+-  Things I want to do: reverse engineering, data analysis.
 
 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=python,arduino,cpp,django,kali,linux&theme=dark)](https://skillicons.dev)
-
-## 📬 Get in Touch
-- Read my tistory [My tistory](https://myfl.tistory.com/)
 <!--
 
 Here are some ideas to get you started:
