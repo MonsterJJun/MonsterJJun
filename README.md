@@ -6,6 +6,7 @@
 
 -  I'm a student at Yeungnam University.
 -  Things I want to do: reverse engineering, data analysis.
+-  HuggingFace: https://huggingface.co/chlwnstj
 
 
 ## Tech Stack
