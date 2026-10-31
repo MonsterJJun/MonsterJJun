@@ -1,26 +1,44 @@
-# Hi, I'm Choi Junseo! 
+# Hi, I'm Junseo Choi!
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitcount+Prop+Double+Ink&weight=300&size=46&duration=3000&pause=800&vCenter=true&width=650&lines=I+always+study+something.)](https://git.io/typing-svg)
+Undergraduate researcher at **Yeungnam University**, interested in Large Language Models (LLMs).
+
+My interests include LLM training, token compression, representation analysis, and AI security.
 
 ## About Me
 
--  I'm a student at Yeungnam University.
--  Things I want to do: reverse engineering, data analysis.
--  HuggingFace: https://huggingface.co/chlwnstj
+- 🎓 Undergraduate student at Yeungnam University
+- 🔬 Conducting research on LLM token compression and representation learning
+- 🧠 Interested in LLM pretraining, post-training, and security
+- 🤗 Hugging Face: [chlwnstj](https://huggingface.co/chlwnstj)
 
+## Research
+
+**Behavior-Equivalent Token Compression**
+- Reproduced a single-token system prompt compression method
+- Investigated Reconstruction, Knowledge Distillation, and Joint training objectives
+- Analyzed token embedding trajectories using PCA and hidden-state representations
+- Presented research at IWEICT 2026
+
+## Projects
+
+**LLM Pretraining from Scratch** *(In Progress)*
+- Implementing a decoder-only Transformer architecture
+- Building tokenization and pretraining data pipelines
+- Exploring model architectures and training techniques
+
+**[TokenCompress](https://github.com/MonsterJJun/TokenCompress)**
+- Experiments on behavior-equivalent token learning
+- Reconstruction and knowledge distillation objectives
+- Embedding and hidden-state analysis
+
+**FindYU — Vision & Agent-Based Lost-and-Found**
+- Developed a prototype using image and text retrieval
+- Integrated VLM-based analysis and agent workflows
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=python,arduino,cpp,django,kali,linux&theme=dark)](https://skillicons.dev)
-<!--
 
-Here are some ideas to get you started:
+[![My Skills](https://skillicons.dev/icons?i=python,pytorch,linux,git,docker&theme=dark)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**ML / LLM:** PyTorch, Hugging Face Transformers
+
+**Research Interests:** LLM Training, Token Compression, Representation Learning, LLM Security
